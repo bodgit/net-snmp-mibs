@@ -1,0 +1,2 @@
+RPM spec file for a bunch of extra SNMP MIB files that aren't part of the
+standard RHEL/CentOS net-snmp package.

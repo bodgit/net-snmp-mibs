@@ -1,7 +1,7 @@
 Name: net-snmp-mibs
 Version: 1.0
 Release: 1
-URL: http://github.com/
+URL: https://github.com/bodgit/net-snmp-mibs
 Group: System Environment/Daemons
 Distribution: Red Hat Linux
 Packager: Matt Dainty <matt@bodgit-n-scarper.com>
